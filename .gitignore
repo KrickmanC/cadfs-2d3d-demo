@@ -1,0 +1,9 @@
+node_modules/
+dist/
+build-static/
+.next/
+next-env.d.ts
+.DS_Store
+npm-debug.log*
+tmp/
+upload/
